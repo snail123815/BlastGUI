@@ -17,3 +17,5 @@ Be able to save database in a predetermined folder and use it again.
 Download and unzip.
 
 Able to update version.
+
+## Add CLI capibility
